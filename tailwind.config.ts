@@ -9,6 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        hover: "rgb(25, 40, 70)",
+        navbar_bg: "var(--navbar_bg)",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
