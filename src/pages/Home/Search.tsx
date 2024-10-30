@@ -89,7 +89,7 @@ const Search: React.FC = () => {
         </div>
       ) : (
         <div className="text-[25px] text-gray-500 mt-[200px]">
-          Enter a Github username to search...
+          Enter a Github username to search
         </div>
       )}
     </div>
